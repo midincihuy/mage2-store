@@ -8,4 +8,8 @@ class Helloworld extends \Magento\Framework\View\Element\Template
 	{
 		return "My Name Is Hamidin Hidayat";
 	}
+	public function getHelloWorldTxtCoba()
+	{
+		return "Coba aja";
+	}
 }
